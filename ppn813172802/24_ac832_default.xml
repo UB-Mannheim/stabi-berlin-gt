@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://content.staatsbibliothek-berlin.de/dc/813172837-0025/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-02-28T13:53:06.147885+00:00</Created>
+        <LastChange>2023-02-28T13:53:06.147900+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="24_ac832_default.jpg" imageWidth="1211" imageHeight="1997">
+
+    
+    <TextRegion id="eSc_textblock_4336c26c"  >
+      <Coords points="153,126 831,126 924,146 937,1689 917,1702 866,1709 811,1662 612,1715 553,1709 538,1675 491,1662 73,1655 73,193 131,173 153,126"/>
+      
+      
+      <TextLine id="eSc_line_5ab69462" >
+        <Coords points="899,141 882,136 824,138 814,134 796,126 782,126 766,126 749,126 732,126 716,126 699,126 682,126 666,126 649,126 632,126 616,126 607,126 598,131 588,136 578,131 568,126 566,126 556,126 536,131 531,131 528,131 514,126 499,126 483,126 479,126 474,129 461,138 426,129 413,126 399,126 383,126 371,126 366,128 349,133 338,128 334,126 333,126 316,126 306,126 304,128 288,139 254,139 241,126 233,126 221,126 214,129 211,126 199,126 189,126 183,129 161,126 149,131 149,181 149,186 907,194 909,181 907,141 899,141"/>
+        <Baseline points="149,181 909,181"/>
+        <TextEquiv>
+          <Unicode>boͤſen Geiſter / Das lll. Bůch.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_98e703a5" >
+        <Coords points="759,183 744,183 711,191 669,183 659,183 654,183 644,193 606,193 586,183 576,183 569,183 559,193 533,193 518,183 509,183 501,183 491,191 366,183 359,183 343,183 334,183 319,193 198,183 193,183 176,183 169,183 149,193 141,184 141,183 139,183 138,183 99,181 93,184 76,189 78,239 78,246 912,251 916,236 912,193 807,193 774,183 759,183"/>
+        <Baseline points="78,239 916,236"/>
+        <TextEquiv>
+          <Unicode>Camel hingefuͤrt / die knecht erlegt. Zum 4.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_58e5ac5e" >
+        <Coords points="76,292 76,302 902,306 904,306 906,306 907,306 921,297 921,289 916,242 74,242 76,292"/>
+        <Baseline points="76,292 921,289"/>
+        <TextEquiv>
+          <Unicode>das Hauß / durch ein vngeſtuͤm wetter vom</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f7b53cc7" >
+        <Coords points="78,349 78,359 917,356 919,346 916,304 496,296 494,296 433,304 88,297 86,297 84,297 83,297 76,302 78,349"/>
+        <Baseline points="78,349 919,346"/>
+        <TextEquiv>
+          <Unicode>Sathan erweckt / zů boden gewoꝛffen / vnnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c48f7b3b" >
+        <Coords points="74,407 74,422 916,417 917,404 916,359 894,349 892,349 891,349 699,359 682,349 681,349 679,349 677,349 624,357 579,349 578,349 576,349 574,349 561,361 443,361 424,351 423,351 421,351 419,351 373,361 351,351 349,351 348,351 346,351 306,361 296,352 296,351 294,351 293,351 223,351 221,351 148,361 138,352 138,351 136,351 134,351 83,351 81,351 79,351 78,351 78,352 76,352 73,354 74,407"/>
+        <Baseline points="74,407 917,404"/>
+        <TextEquiv>
+          <Unicode>ſeine 7. Soͤn / ſampt den 3. Doͤchtern vmb jr</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_115900b3" >
+        <Coords points="769,406 767,406 766,406 756,416 73,416 74,462 74,470 914,465 916,457 912,416 771,406 769,406"/>
+        <Baseline points="74,462 916,457"/>
+        <TextEquiv>
+          <Unicode>leib vnd leben komen. Nach dem er aber ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_88e53e42" >
+        <Coords points="73,520 73,527 283,535 284,535 286,535 306,527 308,527 323,527 494,534 496,534 922,524 922,514 919,470 496,462 494,462 448,470 403,464 401,464 313,472 294,464 293,464 291,464 83,474 73,520"/>
+        <Baseline points="73,520 922,514"/>
+        <TextEquiv>
+          <Unicode>merckt / daß er mit dieſen ſchweren vnfelen al</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2f640fda" >
+        <Coords points="144,520 143,520 141,520 139,520 128,530 128,532 84,532 73,574 73,584 919,584 919,574 917,520 792,530 777,522 776,520 774,520 772,520 771,520 769,520 766,522 746,530 674,524 644,520 642,520 641,520 639,520 636,524 624,530 519,525 453,522 451,522 449,522 431,527 414,530 406,527 391,520 389,520 306,520 304,520 303,520 301,520 301,522 294,529 291,532 174,532 171,530 146,520 144,520"/>
+        <Baseline points="73,574 919,574"/>
+        <TextEquiv>
+          <Unicode>lenſamen nicht ſo viel vermocht / daß er Job</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2c0418fd" >
+        <Coords points="789,575 784,575 751,584 746,584 742,584 717,575 706,575 704,575 696,584 694,585 603,585 601,585 594,579 594,577 593,577 591,577 589,577 551,585 549,585 548,585 521,575 519,575 506,575 489,575 473,575 456,575 439,575 423,575 409,575 408,575 406,575 378,585 294,577 293,577 291,577 249,587 169,577 168,577 166,577 131,587 89,579 88,579 86,579 84,579 73,585 74,632 74,642 917,639 917,627 912,582 826,584 821,582 801,575 789,575"/>
+        <Baseline points="74,632 917,627"/>
+        <TextEquiv>
+          <Unicode>von ſeinem Gott abtruͤnnig machte / ſonder</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b93341d1" >
+        <Coords points="73,687 71,697 912,702 916,690 912,642 434,642 416,634 414,634 413,634 333,642 329,642 316,634 314,634 313,634 311,634 206,642 193,634 191,634 189,634 188,634 84,642 73,687"/>
+        <Baseline points="73,687 916,690"/>
+        <TextEquiv>
+          <Unicode>er nicht minders / dann da es aller dingē noch</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_177f98e1" >
+        <Coords points="737,690 721,690 704,690 687,690 671,690 654,690 639,690 629,697 621,697 436,688 434,688 433,688 431,688 431,690 423,697 233,690 231,690 229,690 198,698 196,698 149,690 148,690 84,698 73,745 73,753 914,748 916,740 912,697 737,690 737,690"/>
+        <Baseline points="73,745 916,740"/>
+        <TextEquiv>
+          <Unicode>wol vmb ihn ſtundt / ſeinen namen lobet vnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2fdfd0fc" >
+        <Coords points="76,803 76,815 912,810 914,793 909,743 308,755 294,755 214,748 213,748 74,758 76,803"/>
+        <Baseline points="76,803 914,793"/>
+        <TextEquiv>
+          <Unicode>preiſet / iſt er zůgefarē / mit erlaubnis Gottes /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e0dc322c" >
+        <Coords points="74,858 74,867 916,862 917,850 914,803 273,803 271,803 269,803 239,812 238,812 233,812 119,805 118,805 73,813 74,858"/>
+        <Baseline points="74,858 917,850"/>
+        <TextEquiv>
+          <Unicode>vnd ſeinen leib mit einem boͤſen geſchwer / voͤ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a6e120ef" >
+        <Coords points="74,915 76,928 99,921 189,926 243,930 244,930 266,926 296,920 326,925 348,928 349,928 411,923 461,920 519,921 634,926 636,926 637,926 651,920 654,918 664,920 702,926 704,926 706,926 734,918 742,916 761,918 822,925 824,925 826,925 827,925 827,923 834,916 836,916 917,916 917,908 912,858 73,865 74,915"/>
+        <Baseline points="74,915 917,908"/>
+        <TextEquiv>
+          <Unicode>den ferſen des fůſſes biß zů der ſcheitlen des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0db096d7" >
+        <Coords points="74,970 74,985 328,986 329,986 331,986 349,981 361,978 374,981 403,986 404,986 406,986 419,980 426,976 474,980 563,985 564,985 566,985 568,985 579,978 584,975 627,976 741,983 742,983 744,983 746,983 757,975 759,973 759,975 769,981 771,981 772,981 774,981 776,981 799,975 804,973 811,973 856,981 857,981 914,971 916,961 911,913 73,918 74,970"/>
+        <Baseline points="74,970 916,961"/>
+        <TextEquiv>
+          <Unicode>haupts / geſchlagen / auch ſo wuͤſt geſchendet /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fa0cbcfd" >
+        <Coords points="74,1025 74,1033 704,1038 706,1038 919,1026 919,1018 916,970 333,970 331,970 288,978 281,978 264,978 134,971 133,971 73,980 74,1025"/>
+        <Baseline points="74,1025 919,1018"/>
+        <TextEquiv>
+          <Unicode>daß er jemerlichen in dem miſt ſitzend / ſeinen</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_81e9e93e" >
+        <Coords points="74,1083 74,1091 916,1083 917,1075 914,1031 243,1028 241,1028 73,1038 74,1083"/>
+        <Baseline points="74,1083 917,1075"/>
+        <TextEquiv>
+          <Unicode>vnrath vnd eiter mit einem ſcherben abſcha⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_64599976" >
+        <Coords points="74,1139 74,1149 919,1149 919,1131 916,1088 73,1088 74,1139"/>
+        <Baseline points="74,1139 919,1131"/>
+        <TextEquiv>
+          <Unicode>bet / ſo grauſam gepeiniget / daß jm ſein eigne</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_cd1f36fa" >
+        <Coords points="722,1134 709,1134 707,1134 626,1143 596,1146 553,1144 408,1139 406,1139 404,1139 384,1149 383,1149 376,1149 318,1141 316,1141 314,1141 274,1151 273,1151 269,1151 178,1143 176,1143 174,1143 153,1153 81,1144 79,1144 78,1144 76,1144 76,1146 74,1146 73,1148 74,1201 74,1209 916,1194 916,1188 911,1138 792,1143 789,1139 784,1136 784,1134 782,1134 781,1134 739,1134 722,1134"/>
+        <Baseline points="74,1201 916,1188"/>
+        <TextEquiv>
+          <Unicode>Fraw den todt wuͤnſchet / vnnd ſeine freund /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_51a07c8a" >
+        <Coords points="874,1189 867,1196 757,1191 741,1191 724,1191 707,1191 704,1191 644,1199 632,1199 622,1199 584,1194 574,1194 558,1194 541,1194 531,1194 491,1199 474,1201 458,1199 423,1196 408,1196 391,1196 374,1198 371,1198 363,1201 354,1203 321,1201 286,1198 274,1199 258,1199 241,1199 224,1199 208,1199 191,1199 174,1201 158,1201 141,1201 124,1201 108,1201 106,1201 74,1201 76,1254 76,1268 411,1258 439,1259 496,1264 498,1264 499,1264 501,1264 511,1258 516,1256 566,1256 764,1261 766,1261 767,1261 769,1261 782,1253 912,1259 914,1259 916,1259 917,1259 917,1258 919,1258 922,1253 922,1244 921,1198 889,1189 874,1189"/>
+        <Baseline points="76,1254 922,1244"/>
+        <TextEquiv>
+          <Unicode>ſo in beſůchten nit mehꝛ erkanten. Was wolt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1834f9f4" >
+        <Coords points="74,1311 74,1319 919,1308 921,1299 916,1256 73,1259 74,1311"/>
+        <Baseline points="74,1311 921,1299"/>
+        <TextEquiv>
+          <Unicode>nun jemandts anders von jm ſagen / dann er</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5ece7e76" >
+        <Coords points="413,1308 238,1318 104,1311 103,1311 101,1311 73,1319 74,1366 74,1374 919,1366 921,1357 917,1313 749,1304 747,1304 746,1304 744,1304 731,1313 414,1308 413,1308"/>
+        <Baseline points="74,1366 921,1357"/>
+        <TextEquiv>
+          <Unicode>were an allen ſein leiblichen vnd euſſerlichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8cf340f8" >
+        <Coords points="697,1361 696,1361 694,1361 679,1369 672,1372 588,1372 584,1371 558,1362 556,1362 554,1362 504,1372 499,1372 494,1372 456,1364 454,1364 453,1364 433,1374 431,1374 421,1374 353,1367 351,1367 349,1367 314,1376 313,1376 306,1376 91,1369 89,1369 88,1369 86,1369 76,1376 78,1426 78,1437 919,1419 919,1414 914,1364 722,1369 717,1367 699,1361 697,1361"/>
+        <Baseline points="78,1426 919,1414"/>
+        <TextEquiv>
+          <Unicode>guͤtern veruntrewet / vnd verzaubert wordē.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8e7e6c97" >
+        <Coords points="844,1416 827,1416 822,1416 782,1424 556,1419 544,1421 529,1421 519,1427 461,1421 459,1421 378,1429 358,1422 344,1422 338,1429 324,1422 311,1424 303,1424 279,1431 278,1431 276,1431 236,1424 228,1424 211,1424 194,1426 183,1426 78,1432 79,1481 79,1489 922,1477 924,1469 921,1424 846,1416 844,1416"/>
+        <Baseline points="79,1481 924,1469"/>
+        <TextEquiv>
+          <Unicode>Wo geſchicht dann der Hexen / die dem Sa⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_149ef632" >
+        <Coords points="607,1474 606,1474 568,1481 544,1484 518,1481 469,1476 468,1476 403,1482 376,1486 344,1484 268,1479 258,1479 241,1479 234,1479 218,1486 213,1487 194,1486 128,1481 124,1481 108,1481 96,1481 74,1486 76,1536 76,1542 922,1537 922,1527 917,1476 639,1482 627,1479 609,1474 607,1474"/>
+        <Baseline points="76,1536 922,1527"/>
+        <TextEquiv>
+          <Unicode>than gehuͤlffen / der Vnholden die den Job</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0f75c2f0" >
+        <Coords points="393,1534 391,1534 389,1534 374,1544 189,1537 188,1537 79,1549 81,1595 81,1610 922,1592 922,1582 919,1537 394,1534 393,1534"/>
+        <Baseline points="81,1595 922,1582"/>
+        <TextEquiv>
+          <Unicode>gehaſt / der Hexen ſalbe damit Job angeſtri⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_90e6a4f5" >
+        <Coords points="76,1650 76,1655 108,1669 109,1669 111,1669 154,1659 156,1659 173,1669 174,1669 176,1669 178,1669 179,1669 181,1669 194,1660 206,1654 244,1662 304,1674 306,1674 308,1674 339,1665 361,1659 373,1665 393,1680 394,1680 396,1680 398,1680 399,1680 424,1667 439,1660 494,1670 528,1675 529,1675 551,1672 646,1654 719,1677 747,1687 749,1687 751,1687 752,1687 769,1679 804,1664 822,1682 826,1684 826,1685 827,1685 829,1685 831,1685 921,1684 921,1639 916,1587 556,1599 509,1595 443,1592 441,1592 439,1592 438,1592 428,1599 423,1600 374,1599 239,1595 238,1595 184,1604 181,1604 179,1604 96,1597 94,1597 93,1597 74,1604 76,1650"/>
+        <Baseline points="76,1650 921,1639"/>
+        <TextEquiv>
+          <Unicode>chen / mit einem einigen woͤrtlin meldung?</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d30a1c2a" >
+        <Coords points="651,1700 644,1677 611,1665 609,1665 607,1665 606,1665 604,1665 604,1667 591,1680 556,1680 551,1702 551,1704 551,1720 607,1714 651,1722 652,1704 652,1700 651,1700"/>
+        <Baseline points="551,1704 652,1704"/>
+        <TextEquiv>
+          <Unicode>iij</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+    
+    
+      <TextLine id="eSc_line_7e64bf47" >
+        <Coords points="861,1705 861,1730 926,1734 927,1705 927,1647 861,1647 861,1705"/>
+        <Baseline points="862,1706 928,1706"/>
+        <TextEquiv>
+          <Unicode>Es</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
