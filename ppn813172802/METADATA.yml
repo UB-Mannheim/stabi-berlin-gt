@@ -1,0 +1,39 @@
+schema: >-
+  https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: stabi-berlin-gt
+url: https://github.com/casab100/stabi-berlin-gt.git
+authors:
+  - name: Sabokat
+    surname: Carolin
+    roles:
+      - transcriber
+description: Ground truth for digitized publications of Staatsbibliothek zu Berlin
+project-name: Das Hexen Buch.
+language:
+  - deu
+script:
+  - Latn
+  - Goth
+  - Grek
+script-type: print
+time:
+  notBefore: '1569'
+  notAfter: '1569'
+hands:
+  count: '3'
+  level: level2
+license:
+  - name: CC0 1.0
+    url: https://creativecommons.org/licenses/zero/1.0/
+gtTyp: data_document
+format: Page-XML
+sources:
+  - reference: Wier, J. (1569). Das Hexen Buch. Schmidt, Peter, Frankfurt/Main
+    link: http://resolver.staatsbibliothek-berlin.de/SBB00018A0E00010000
+volume:
+  - metric: pages
+    count: 40
+transcription-guidelines: OCR-D Richtlinien
+modeltitle: Zauberer2
+modeldescription: Neu trainiertes Modell basierend auf dem Modell digitue-best
+modelengine: eScriptorium
