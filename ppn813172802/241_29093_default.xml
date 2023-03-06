@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://content.staatsbibliothek-berlin.de/dc/813172837-0242/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-03-06T11:57:49.670027+00:00</Created>
+        <LastChange>2023-03-06T11:57:49.670043+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="241_29093_default.jpg" imageWidth="1152" imageHeight="1997">
+
+    
+    <TextRegion id="eSc_textblock_c170a999"  >
+      <Coords points="486,113 997,119 1052,166 1130,179 1117,1695 1018,1695 983,1649 266,1642 273,153 286,133 444,153 486,113"/>
+      
+      
+      <TextLine id="eSc_line_3b1ca185" >
+        <Coords points="346,139 329,138 312,136 296,133 279,139 279,168 278,173 359,176 362,171 362,143 346,139"/>
+        <Baseline points="279,168 362,171"/>
+        <TextEquiv>
+          <Unicode>222</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_05a746c8" >
+        <Coords points="915,118 898,118 883,118 882,119 837,119 832,116 832,116 815,116 799,116 782,116 769,116 765,119 764,119 760,119 744,114 732,114 715,114 699,114 685,114 657,119 639,121 607,119 539,113 532,113 516,113 509,113 477,116 466,129 467,168 467,181 995,173 997,163 993,119 927,119 923,118 915,118"/>
+        <Baseline points="467,168 997,163"/>
+        <TextEquiv>
+          <Unicode>Von verblendung der</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_544118ab" >
+        <Coords points="1107,174 1090,173 1073,169 1057,166 1055,164 1033,163 1032,163 1030,163 1028,163 1013,174 953,174 920,164 907,164 890,173 849,164 847,164 845,164 844,164 844,166 834,174 829,174 740,166 739,166 614,174 605,168 590,168 574,168 557,168 546,168 537,176 527,168 524,168 514,168 499,174 404,166 402,166 401,166 372,176 371,176 356,166 354,166 352,166 351,166 349,166 329,174 294,166 292,166 291,166 289,166 274,173 276,227 278,242 307,234 386,234 396,241 396,242 397,242 399,242 401,244 466,244 466,242 467,242 469,242 469,241 471,241 476,236 482,241 484,242 486,242 487,242 489,242 597,241 599,241 600,241 600,239 602,239 609,232 662,239 687,241 689,241 1122,232 1123,222 1120,176 1107,174"/>
+        <Baseline points="276,227 1123,222"/>
+        <TextEquiv>
+          <Unicode>der daſſelbige ſchreib. Sanct Helena. Die⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3fa7c8d1" >
+        <Coords points="880,224 878,224 857,229 844,232 809,231 740,226 729,226 712,226 710,226 694,232 687,234 640,234 427,227 426,227 424,227 422,227 411,236 396,227 394,227 392,227 322,236 294,227 292,227 291,227 289,227 288,227 279,234 281,282 281,292 1122,286 1123,276 1120,226 882,224 880,224"/>
+        <Baseline points="281,282 1123,276"/>
+        <TextEquiv>
+          <Unicode>ſen Criſtal nemme ein keuſcher Knab / ſo ehe⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7fe2f6ca" >
+        <Coords points="467,282 409,291 314,282 312,282 311,282 279,292 281,339 283,357 317,349 1115,349 1117,336 1112,284 729,289 724,287 704,281 702,281 700,281 529,291 512,291 509,291 469,282 467,282"/>
+        <Baseline points="281,339 1117,336"/>
+        <TextEquiv>
+          <Unicode>lich hererboꝛen / bey zehen jaren vngefchrlich</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1b3ce5de" >
+        <Coords points="281,392 281,407 1115,411 1117,392 1115,341 281,344 281,392"/>
+        <Baseline points="281,392 1117,392"/>
+        <TextEquiv>
+          <Unicode>alt / in die rechte hand / hinder welche du auff</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5081eb18" >
+        <Coords points="283,450 283,469 1120,460 1120,450 1118,399 283,399 283,450"/>
+        <Baseline points="283,450 1120,450"/>
+        <TextEquiv>
+          <Unicode>den knien ligend / mit hoͤchſter ehrerbietung</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2023fea7" >
+        <Coords points="1113,452 1097,452 1080,452 1063,452 1047,452 1030,452 1013,452 997,452 980,452 963,452 947,452 930,452 913,452 908,452 281,460 283,510 283,522 1123,512 1123,502 1118,449 1113,449 1113,452"/>
+        <Baseline points="283,510 1123,502"/>
+        <TextEquiv>
+          <Unicode>zu dem dritten mal / dieſes Gebettlein ſpre⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_af867edf" >
+        <Coords points="975,504 973,504 972,504 970,504 952,512 947,514 943,512 927,505 925,505 923,505 887,512 877,514 868,512 840,505 829,505 822,505 802,512 797,514 795,512 787,505 779,507 770,507 759,512 755,514 744,512 699,507 695,507 679,507 674,507 637,514 612,517 600,514 587,509 579,509 562,509 546,509 529,509 519,509 279,514 281,564 281,575 782,580 784,580 1122,569 1122,555 1117,512 987,512 985,512 977,504 975,504"/>
+        <Baseline points="281,564 1122,555"/>
+        <TextEquiv>
+          <Unicode>ehen ſolt: Ich bitte dich o heilige Helena / ei⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4670c4f9" >
+        <Coords points="279,619 279,629 1118,624 1120,614 1115,567 278,572 279,619"/>
+        <Baseline points="279,619 1120,614"/>
+        <TextEquiv>
+          <Unicode>ne Můͤtter des Koͤnigs Conſtantini / welche</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1b7245b2" >
+        <Coords points="615,617 614,617 612,617 609,619 590,629 506,629 449,619 446,619 431,619 417,629 339,629 279,619 279,675 279,683 1120,682 1120,675 1118,620 639,627 620,619 617,617 615,617"/>
+        <Baseline points="279,675 1120,675"/>
+        <TextEquiv>
+          <Unicode>du das Creutz vnſers lieben H E R REN</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_890415b2" >
+        <Coords points="276,730 276,743 1118,740 1118,730 1117,680 276,682 276,730"/>
+        <Baseline points="276,730 1118,730"/>
+        <TextEquiv>
+          <Unicode>vnd Heylands Jheſu Chriſti gefundē haſt /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_be93a4db" >
+        <Coords points="1112,738 278,735 279,787 279,795 697,803 699,803 850,793 864,793 865,793 890,802 892,802 893,802 987,793 990,793 993,793 1062,802 1063,802 1120,792 1122,783 1118,755 1112,738"/>
+        <Baseline points="279,787 1122,783"/>
+        <TextEquiv>
+          <Unicode>durch die aller heiligſte deuotion vnd erfin⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_02dc937a" >
+        <Coords points="953,785 952,785 950,785 898,793 892,795 887,793 859,785 857,785 855,785 854,785 825,793 815,797 809,793 794,787 792,787 790,787 742,793 710,798 667,798 660,792 655,787 654,787 652,787 650,787 649,787 637,792 627,797 542,792 489,788 487,788 486,788 484,788 481,790 469,800 434,800 424,790 422,788 421,788 419,788 417,788 416,788 407,790 372,798 276,790 278,845 278,852 1118,848 1120,840 1117,797 1020,787 1018,787 972,795 968,795 967,795 955,785 953,785"/>
+        <Baseline points="278,845 1120,840"/>
+        <TextEquiv>
+          <Unicode>dung des Creutzes / vnnd durch das aller</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_74c41a1e" >
+        <Coords points="787,843 785,843 784,843 782,843 782,845 777,850 772,855 735,855 709,848 680,843 679,843 677,843 675,843 675,845 672,848 665,855 506,855 487,845 477,845 469,845 447,852 421,845 411,845 409,845 401,853 319,853 286,845 278,845 278,898 278,920 387,920 387,918 389,918 391,918 391,916 397,911 406,916 406,918 407,918 409,918 411,920 534,920 534,918 536,918 537,918 537,916 539,915 546,910 551,915 552,916 554,916 556,916 647,918 649,918 650,918 662,913 674,908 679,913 684,918 685,918 687,918 689,918 714,913 735,908 752,911 774,918 775,918 777,918 807,911 825,908 923,908 927,910 933,916 935,916 937,916 938,916 1038,908 1048,908 1050,908 1075,918 1077,918 1078,918 1080,918 1123,906 1123,898 1123,855 938,843 937,843 935,843 918,852 913,855 822,855 810,850 789,843 787,843"/>
+        <Baseline points="278,898 1123,898"/>
+        <TextEquiv>
+          <Unicode>heiligeſt Creutz / durch die freude / ſo du ent⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b79eb229" >
+        <Coords points="276,960 276,976 1117,966 1118,955 1113,905 274,908 276,960"/>
+        <Baseline points="276,960 1118,955"/>
+        <TextEquiv>
+          <Unicode>pfangen / als du das aller heiligeſte Creutz</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_41179de7" >
+        <Coords points="1113,960 332,960 331,960 276,968 278,1015 278,1025 1120,1026 1123,1010 1120,965 1113,960"/>
+        <Baseline points="278,1015 1123,1010"/>
+        <TextEquiv>
+          <Unicode>gefunden haßt / vnnd durch die innigkliche</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3c79919a" >
+        <Coords points="875,1011 824,1020 809,1021 799,1020 769,1013 767,1013 765,1013 749,1020 744,1023 692,1023 690,1020 684,1015 684,1013 682,1013 680,1013 679,1013 624,1020 605,1021 273,1021 274,1070 274,1078 1118,1073 1120,1065 1117,1020 877,1011 875,1011"/>
+        <Baseline points="274,1070 1120,1065"/>
+        <TextEquiv>
+          <Unicode>liebe / welche du gegen deinem Sohn / dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3a274cac" >
+        <Coords points="742,1068 740,1068 729,1073 722,1078 562,1078 539,1071 534,1070 522,1070 512,1070 484,1076 459,1070 456,1070 439,1070 432,1070 367,1076 291,1070 289,1070 288,1068 273,1068 273,1126 273,1133 1115,1141 1117,1126 1117,1075 1105,1068 1103,1068 1102,1068 1100,1068 1040,1076 744,1068 742,1068"/>
+        <Baseline points="273,1126 1117,1126"/>
+        <TextEquiv>
+          <Unicode>Koͤnige Conſtantino gehabt haſt / vnd durch</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fa524526" >
+        <Coords points="1087,1128 1070,1128 1053,1128 1037,1128 1020,1128 1003,1128 987,1128 975,1128 965,1133 953,1128 953,1128 937,1128 935,1128 928,1134 915,1134 704,1128 704,1128 687,1128 670,1128 654,1128 642,1128 627,1133 617,1128 604,1128 587,1128 571,1128 554,1128 537,1128 532,1128 527,1133 526,1133 484,1128 471,1128 454,1128 437,1128 426,1128 412,1133 409,1133 407,1133 387,1128 387,1128 371,1128 354,1128 347,1133 344,1133 271,1133 271,1178 269,1191 1118,1191 1120,1181 1120,1134 1093,1128 1087,1128"/>
+        <Baseline points="271,1178 1120,1181"/>
+        <TextEquiv>
+          <Unicode>die hoͤchſten Guͤter / deren du ewigklichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e945d8ed" >
+        <Coords points="274,1236 274,1254 1120,1246 1120,1236 1120,1189 647,1183 645,1183 594,1191 589,1191 585,1191 561,1183 559,1183 557,1183 556,1183 554,1183 546,1191 544,1191 539,1191 474,1183 472,1183 471,1183 454,1191 452,1193 359,1193 359,1191 334,1183 332,1183 331,1183 274,1191 274,1236"/>
+        <Baseline points="274,1236 1120,1236"/>
+        <TextEquiv>
+          <Unicode>gefreuwet wirſt: Daß du mir zeugeſt inn</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_bbc3051b" >
+        <Coords points="273,1293 273,1306 1117,1304 1117,1293 1115,1244 273,1244 273,1293"/>
+        <Baseline points="273,1293 1117,1293"/>
+        <TextEquiv>
+          <Unicode>dieſem Chiſtall / was ich zu wiſſen begere /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_bff33fd2" >
+        <Coords points="804,1294 787,1294 770,1294 754,1294 740,1301 442,1294 441,1294 401,1303 389,1294 387,1294 386,1294 371,1294 354,1294 337,1294 321,1294 304,1294 288,1294 286,1294 284,1294 283,1294 271,1301 273,1351 273,1367 694,1367 694,1366 740,1361 765,1357 840,1359 1068,1364 1070,1364 1118,1354 1118,1347 1115,1303 819,1294 804,1294"/>
+        <Baseline points="273,1351 1118,1347"/>
+        <TextEquiv>
+          <Unicode>Amen. Vnd ſo bald der knab den Engel im</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d38198ba" >
+        <Coords points="273,1407 273,1419 1115,1419 1117,1404 1113,1357 271,1356 273,1407"/>
+        <Baseline points="273,1407 1117,1404"/>
+        <TextEquiv>
+          <Unicode>Chriſtal erſicht / ſo magſt du jhn fragen was</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_39bb74a9" >
+        <Coords points="865,1406 804,1414 752,1406 750,1406 749,1406 747,1406 734,1414 391,1407 389,1407 387,1407 386,1407 386,1409 377,1416 377,1417 266,1417 268,1464 268,1474 1115,1474 1117,1461 1113,1416 867,1406 865,1406"/>
+        <Baseline points="268,1464 1117,1461"/>
+        <TextEquiv>
+          <Unicode>du wilt / wirdt dir der Engel darauff mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2ce02d38" >
+        <Coords points="1002,1462 985,1462 968,1462 952,1462 935,1462 918,1462 903,1469 895,1472 852,1469 777,1462 775,1462 774,1462 760,1469 750,1472 707,1469 660,1464 659,1464 657,1464 647,1467 634,1474 590,1467 572,1466 571,1466 556,1467 517,1474 499,1467 491,1464 489,1464 487,1464 471,1467 434,1476 417,1467 414,1466 412,1466 411,1466 269,1466 271,1524 271,1531 499,1537 501,1537 502,1537 529,1529 532,1529 536,1529 572,1537 574,1537 682,1527 699,1527 700,1527 712,1536 714,1536 715,1536 717,1537 804,1537 804,1536 805,1536 807,1536 817,1527 822,1527 943,1534 945,1534 947,1534 948,1534 958,1526 960,1526 968,1526 1062,1534 1063,1534 1110,1524 1112,1517 1108,1471 1007,1462 1002,1462"/>
+        <Baseline points="271,1524 1112,1517"/>
+        <TextEquiv>
+          <Unicode>genůgſamer antwort begegnen . Ich hab /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d0656237" >
+        <Coords points="1103,1526 1053,1519 1048,1519 1033,1519 1017,1526 1008,1519 998,1519 995,1519 982,1526 898,1519 898,1521 882,1521 865,1521 849,1521 844,1521 735,1527 710,1521 699,1521 682,1522 665,1522 592,1529 529,1522 516,1522 499,1522 482,1522 466,1524 449,1524 432,1524 416,1524 399,1524 382,1524 366,1524 349,1524 331,1531 304,1524 299,1524 288,1524 266,1532 268,1580 268,1589 1115,1580 1115,1574 1112,1536 1103,1526"/>
+        <Baseline points="268,1580 1115,1574"/>
+        <TextEquiv>
+          <Unicode>(ſpꝛicht Cardanus) ſolche gedicht vnnd Fa⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_19a18f9e" >
+        <Coords points="266,1634 266,1652 407,1652 409,1652 422,1664 422,1665 424,1665 426,1665 536,1667 537,1667 539,1667 541,1667 562,1650 567,1650 634,1665 635,1665 757,1650 775,1665 777,1665 779,1665 780,1667 804,1667 804,1665 805,1665 834,1652 850,1664 852,1664 854,1664 855,1665 888,1665 888,1664 890,1664 917,1649 918,1649 922,1649 985,1664 987,1664 988,1664 1018,1650 1110,1647 1112,1629 1107,1579 264,1580 266,1634"/>
+        <Baseline points="266,1634 1112,1629"/>
+        <TextEquiv>
+          <Unicode>belwerck bißher noch allwegen verlachet /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d96eba35" >
+        <Coords points="1018,1689 1018,1702 1110,1705 1112,1685 1107,1640 1015,1642 1018,1689"/>
+        <Baseline points="1018,1689 1112,1685"/>
+        <TextEquiv>
+          <Unicode>vnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://content.staatsbibliothek-berlin.de/dc/813172837-0226/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-03-06T11:57:49.291501+00:00</Created>
+        <LastChange>2023-03-06T11:57:49.291518+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="225_b7eb0_default.jpg" imageWidth="1167" imageHeight="1997">
+
+    
+    <TextRegion id="eSc_textblock_dfc04350"  >
+      <Coords points="477,119 1007,126 1048,179 1120,186 1107,1709 1015,1709 980,1662 907,1655 259,1642 266,126 436,153 477,119"/>
+      
+      
+      <TextLine id="eSc_line_ab8f2179" >
+        <Coords points="356,139 339,138 322,134 314,133 273,133 273,173 273,188 366,188 366,173 366,141 356,139"/>
+        <Baseline points="273,173 366,173"/>
+        <TextEquiv>
+          <Unicode>206</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_647d53b9" >
+        <Coords points="930,124 917,124 915,126 912,128 883,126 845,123 830,123 814,123 797,123 780,123 770,123 765,124 757,128 750,124 745,121 730,121 714,121 705,121 680,124 647,128 610,123 581,119 581,119 564,119 547,119 531,119 474,121 464,128 464,174 464,183 1002,186 1003,174 1002,128 945,128 943,126 940,124 930,124"/>
+        <Baseline points="464,174 1003,174"/>
+        <TextEquiv>
+          <Unicode>Voͤn verblendung der</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3c16fff5" >
+        <Coords points="1105,184 1088,183 1072,181 274,181 274,229 273,236 491,246 492,246 685,239 737,247 739,247 1113,239 1115,232 1112,184 1105,184"/>
+        <Baseline points="274,229 1115,232"/>
+        <TextEquiv>
+          <Unicode>tzen / durch jhre leſterliche hand verzeichnet /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a0392878" >
+        <Coords points="273,284 271,291 367,301 369,301 496,296 532,294 537,296 552,302 554,302 556,302 650,297 697,296 1113,304 1117,289 1113,237 273,239 273,284"/>
+        <Baseline points="273,284 1117,289"/>
+        <TextEquiv>
+          <Unicode>in deren dreifach arbeitſeligen leuten eutati⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a6f7e951" >
+        <Coords points="274,341 273,349 584,359 585,359 820,352 834,352 837,352 900,361 902,361 1115,352 1117,346 1117,302 1043,292 1042,292 890,299 837,301 827,297 804,291 802,291 800,291 742,297 720,299 682,296 607,291 605,291 604,291 585,296 569,299 562,296 554,289 552,289 551,289 491,289 489,289 487,289 486,289 486,291 481,294 477,297 274,292 274,341"/>
+        <Baseline points="274,341 1117,346"/>
+        <TextEquiv>
+          <Unicode>on außzugieſſen / darumb ſie dann mit Jan⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5cf88a96" >
+        <Coords points="273,397 271,404 1112,409 1115,402 1113,356 752,356 745,354 709,346 707,346 614,352 592,354 574,352 496,344 494,344 273,351 273,397"/>
+        <Baseline points="273,397 1115,402"/>
+        <TextEquiv>
+          <Unicode>ne vnnd Mambre / es ſeye denn ſach / daß ſie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_de56f94d" >
+        <Coords points="273,399 273,452 271,460 286,469 288,469 289,469 882,465 908,474 910,474 912,474 1113,465 1115,459 1113,407 336,407 283,399 273,399"/>
+        <Baseline points="273,452 1115,459"/>
+        <TextEquiv>
+          <Unicode>bey gůter zeit bůſſe thůn / der tagen eines jhre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a6a28daa" >
+        <Coords points="273,510 271,525 1113,525 1115,515 1113,462 273,462 273,510"/>
+        <Baseline points="273,510 1115,515"/>
+        <TextEquiv>
+          <Unicode>ſtraff trewlich entpfangen werden. Da wirt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8329010e" >
+        <Coords points="677,514 675,514 674,514 639,522 597,514 595,514 531,520 522,514 522,512 521,512 519,512 517,512 516,512 514,512 502,520 442,512 441,512 439,512 422,520 421,520 419,520 399,512 397,512 396,512 269,517 269,564 268,574 837,587 839,587 950,580 955,580 957,580 992,589 993,589 995,589 1112,580 1113,574 1113,525 1103,519 1102,519 1100,519 1098,519 982,527 978,527 977,527 962,517 960,517 958,517 957,517 875,525 874,525 819,515 724,515 722,515 720,515 719,515 709,524 679,514 677,514"/>
+        <Baseline points="269,564 1113,574"/>
+        <TextEquiv>
+          <Unicode>nun auch gebraucht das Weihwaſſer / auſ⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5e2c72bc" >
+        <Coords points="970,572 957,572 948,579 947,580 943,579 925,572 920,572 912,572 898,579 892,580 824,577 719,572 717,572 699,575 679,580 672,575 667,570 665,570 664,570 607,570 605,570 604,570 594,574 579,580 547,574 531,570 529,570 504,572 444,580 436,572 434,572 434,570 432,570 431,570 271,570 271,625 271,637 1112,634 1112,625 1112,582 990,582 987,579 970,572 970,572"/>
+        <Baseline points="271,625 1112,625"/>
+        <TextEquiv>
+          <Unicode>ſerhalb der erſten Conſecration Gottes ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f37b89bf" >
+        <Coords points="547,627 546,627 544,627 491,629 314,634 279,627 271,627 271,680 269,693 439,688 452,695 454,697 456,697 457,697 459,697 514,695 599,690 622,693 654,698 655,698 690,693 709,690 714,693 720,698 722,698 724,698 725,698 817,692 835,692 842,692 890,700 892,700 893,700 895,700 895,698 903,692 1023,692 1088,700 1090,700 1092,700 1113,690 1115,685 1115,639 802,629 800,629 697,632 556,635 551,629 549,629 549,627 547,627"/>
+        <Baseline points="271,680 1115,685"/>
+        <TextEquiv>
+          <Unicode>ſegenet / welches offt angeſpritzt / vnderwei⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7ba348f6" >
+        <Coords points="266,742 1112,747 1115,740 1115,693 564,693 476,683 462,683 461,683 444,683 304,690 269,682 268,735 266,742"/>
+        <Baseline points="268,735 1115,740"/>
+        <TextEquiv>
+          <Unicode>len auch zu trincken angebotten wirdt / das</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_23bebb57" >
+        <Coords points="864,740 862,740 807,745 765,748 754,745 740,740 739,740 737,740 735,740 715,745 694,750 625,745 534,738 532,738 531,738 516,745 509,748 502,745 486,737 484,737 482,737 439,745 431,747 422,745 381,737 379,737 377,737 376,737 366,745 364,747 273,747 273,792 271,805 900,805 918,813 920,813 922,813 923,815 1112,815 1113,798 1112,745 1042,752 1032,745 1032,743 1030,743 1028,743 1027,743 1025,743 1023,743 1023,745 1010,752 988,745 978,742 977,742 975,742 973,742 972,742 968,745 958,753 912,753 883,745 865,740 864,740"/>
+        <Baseline points="273,792 1113,798"/>
+        <TextEquiv>
+          <Unicode>geweihet Saltz / etwan ein ſtůͤcklin geſegnets</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_08985c42" >
+        <Coords points="271,848 269,855 329,865 331,865 461,858 477,858 481,858 506,867 507,867 509,868 1107,868 1108,855 1107,800 271,800 271,848"/>
+        <Baseline points="271,848 1108,855"/>
+        <TextEquiv>
+          <Unicode>Wachſes / Weirauch / angezuͤndte Kertzen /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_98e85ae2" >
+        <Coords points="268,903 266,913 777,925 779,925 895,918 898,918 900,918 912,926 913,926 915,926 917,926 1112,918 1113,910 1110,862 878,863 855,860 820,855 819,855 744,860 694,863 684,860 669,855 667,855 665,855 625,860 609,862 605,860 599,853 597,853 595,853 594,853 552,860 537,862 524,860 481,852 479,852 477,852 462,860 461,860 457,860 429,852 427,852 426,852 268,858 268,903"/>
+        <Baseline points="268,903 1113,910"/>
+        <TextEquiv>
+          <Unicode>welche ja eben gags / am tag Purifisationis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2fc683e8" >
+        <Coords points="903,910 902,910 900,910 869,918 864,918 859,918 815,910 814,910 812,910 810,910 802,916 802,918 799,916 777,910 775,910 774,910 722,916 700,918 687,915 657,908 655,908 654,908 652,908 634,915 629,916 269,911 269,960 268,968 1108,975 1112,966 1112,921 987,911 985,911 948,918 942,920 935,918 905,910 903,910"/>
+        <Baseline points="269,960 1112,966"/>
+        <TextEquiv>
+          <Unicode>Marie / wider den forchtſamen Teuffel ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_175927f0" >
+        <Coords points="268,1015 266,1025 1107,1035 1110,1021 1108,975 268,963 268,1015"/>
+        <Baseline points="268,1015 1110,1021"/>
+        <TextEquiv>
+          <Unicode>weihet worden ſind. Deßgleichen Eſt vnnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_818c1a56" >
+        <Coords points="334,1016 268,1021 268,1070 266,1080 386,1080 392,1081 414,1090 416,1090 417,1090 506,1083 526,1081 529,1083 546,1091 547,1091 549,1091 670,1085 710,1093 712,1093 714,1093 749,1085 750,1085 752,1085 827,1095 829,1095 883,1086 1103,1086 1107,1080 1105,1026 1027,1025 1025,1025 1023,1025 1022,1025 1022,1026 1013,1033 985,1025 982,1025 980,1025 978,1025 977,1025 975,1025 965,1033 890,1025 883,1025 882,1025 878,1025 847,1031 835,1025 830,1021 829,1021 827,1021 825,1021 824,1021 815,1025 802,1030 737,1025 702,1021 700,1021 699,1021 697,1021 694,1025 687,1030 665,1023 649,1020 647,1020 645,1020 605,1023 561,1028 549,1023 539,1020 537,1020 536,1020 504,1023 477,1026 472,1023 467,1018 466,1018 464,1018 462,1018 439,1023 421,1026 389,1023 336,1016 334,1016"/>
+        <Baseline points="268,1070 1107,1080"/>
+        <TextEquiv>
+          <Unicode>Bletter / ſo am Palmttg verſegenet: Item /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a991e4e7" >
+        <Coords points="1098,1093 927,1093 920,1090 890,1080 888,1080 887,1080 840,1090 835,1090 834,1090 812,1078 810,1078 809,1078 807,1078 779,1085 759,1076 757,1076 755,1076 685,1088 677,1088 672,1086 637,1076 635,1076 595,1076 594,1076 592,1076 590,1076 579,1086 576,1088 559,1086 492,1075 491,1075 489,1075 457,1085 447,1088 434,1085 414,1078 412,1078 411,1078 382,1083 367,1086 352,1083 309,1075 307,1075 264,1081 264,1131 263,1139 1105,1144 1108,1136 1107,1131 1098,1093"/>
+        <Baseline points="264,1131 1108,1136"/>
+        <TextEquiv>
+          <Unicode>Kreutter / die an Sanct Johañis des Teuf⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0c4ec5e6" >
+        <Coords points="1100,1136 1083,1136 1067,1136 1055,1136 855,1143 847,1136 834,1136 822,1134 599,1141 581,1134 567,1134 549,1141 539,1133 534,1133 517,1133 501,1133 484,1133 467,1133 307,1139 274,1133 268,1133 268,1186 266,1199 1105,1201 1108,1191 1105,1134 1100,1134 1100,1136"/>
+        <Baseline points="268,1186 1108,1191"/>
+        <TextEquiv>
+          <Unicode>fers tag fůr die Heuſer hinauß gehencket / od</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_cd7e9e49" >
+        <Coords points="264,1241 263,1248 326,1258 327,1258 531,1253 539,1253 541,1253 552,1261 554,1261 556,1261 557,1261 619,1253 629,1253 642,1254 699,1261 700,1261 702,1261 704,1261 712,1254 715,1253 720,1254 734,1261 735,1261 737,1261 764,1256 779,1253 820,1256 890,1263 892,1264 958,1264 958,1263 960,1263 962,1263 962,1261 965,1258 970,1254 1102,1259 1105,1246 1103,1196 264,1196 264,1241"/>
+        <Baseline points="264,1241 1105,1246"/>
+        <TextEquiv>
+          <Unicode>aber / an vnſer Frawen Himmelfahrts tag /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_730ad694" >
+        <Coords points="263,1298 261,1309 789,1309 795,1309 854,1318 855,1318 1107,1309 1108,1303 1107,1258 1055,1248 1053,1248 1052,1248 1050,1248 1037,1256 1003,1248 1002,1248 1000,1248 998,1248 968,1256 963,1256 947,1256 827,1246 825,1246 780,1254 772,1254 764,1254 710,1246 709,1246 707,1246 685,1253 679,1256 551,1256 547,1251 541,1246 541,1244 539,1244 537,1244 536,1244 534,1244 514,1251 509,1253 502,1251 482,1244 481,1244 479,1244 263,1248 263,1298"/>
+        <Baseline points="263,1298 1108,1303"/>
+        <TextEquiv>
+          <Unicode>inn der Kirchen mit dem Weihwaſſer be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ae1be1c4" >
+        <Coords points="264,1359 263,1371 1105,1374 1108,1362 1108,1314 264,1306 264,1359"/>
+        <Baseline points="264,1359 1108,1362"/>
+        <TextEquiv>
+          <Unicode>ſprengt / vnd daher groͤſſere krafft / weder inn</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d75a3e81" >
+        <Coords points="1062,1362 1045,1362 1028,1362 1022,1362 973,1369 965,1371 874,1371 865,1367 847,1362 845,1362 829,1362 812,1362 807,1362 787,1367 780,1369 642,1369 632,1366 614,1361 612,1361 595,1361 589,1361 579,1364 569,1367 559,1364 547,1361 546,1361 529,1361 512,1361 496,1361 476,1364 471,1364 466,1364 454,1361 446,1361 429,1361 426,1361 424,1362 419,1366 263,1362 263,1411 261,1421 1110,1427 1113,1416 1112,1371 1065,1362 1062,1362"/>
+        <Baseline points="263,1411 1113,1416"/>
+        <TextEquiv>
+          <Unicode>der erſten erſchoͤpffung / von Gott dem Vat</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d4383f35" >
+        <Coords points="261,1467 259,1477 940,1487 942,1487 1105,1479 1107,1474 1107,1422 261,1414 261,1467"/>
+        <Baseline points="261,1467 1107,1474"/>
+        <TextEquiv>
+          <Unicode>ter entpfangen haben / wider allen gewalt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_86dc63a3" >
+        <Coords points="261,1522 259,1532 1100,1546 1103,1529 1102,1479 261,1474 261,1522"/>
+        <Baseline points="261,1522 1103,1529"/>
+        <TextEquiv>
+          <Unicode>des Teuffels. Dieſe zuͤnden ſie an / reuchern /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_04d3fe10" >
+        <Coords points="261,1579 259,1585 512,1597 514,1597 1103,1595 1105,1585 1105,1536 261,1534 261,1579"/>
+        <Baseline points="261,1579 1105,1585"/>
+        <TextEquiv>
+          <Unicode>vnnd treiben ſonſt auch noch viel andere</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ae8237be" >
+        <Coords points="266,1639 264,1664 1107,1664 1108,1642 1107,1594 266,1585 266,1639"/>
+        <Baseline points="266,1639 1108,1642"/>
+        <TextEquiv>
+          <Unicode>Gugelfůhr mehr / darmit ſie die einfeltigen</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_059825bc" >
+        <Coords points="1013,1702 1013,1719 1100,1725 1102,1699 1097,1652 1010,1652 1013,1702"/>
+        <Baseline points="1013,1702 1102,1699"/>
+        <TextEquiv>
+          <Unicode>vnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
