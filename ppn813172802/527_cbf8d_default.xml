@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://content.staatsbibliothek-berlin.de/dc/813172837-0528/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-03-06T11:57:57.777417+00:00</Created>
+        <LastChange>2023-03-06T11:57:57.777433+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="527_cbf8d_default.jpg" imageWidth="1186" imageHeight="1997">
+
+    
+    <TextRegion id="eSc_textblock_c6ad2629"  >
+      <Coords points="473,126 984,126 1032,179 1151,206 1144,1709 1066,1715 1031,1662 286,1642 293,153 306,133 438,153 473,126"/>
+      
+      
+      <TextLine id="eSc_line_bf587a32" >
+        <Coords points="384,144 368,141 351,139 346,138 306,136 301,138 301,178 301,186 393,183 393,178 393,146 384,144"/>
+        <Baseline points="301,178 393,178"/>
+        <TextEquiv>
+          <Unicode>gos</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_59eae74f" >
+        <Coords points="989,134 941,126 931,126 914,126 901,126 864,133 737,126 731,126 714,126 697,126 681,126 664,126 662,126 632,136 559,136 541,126 531,126 514,126 498,126 481,126 464,131 448,143 431,151 429,149 414,178 414,184 996,184 996,178 996,141 989,134"/>
+        <Baseline points="414,178 996,178"/>
+        <TextEquiv>
+          <Unicode>Von verblendung der</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8b2e3499" >
+        <Coords points="1111,198 1094,193 1077,189 1061,186 1044,183 1032,179 897,188 886,188 882,188 839,179 827,179 826,179 817,188 816,188 787,179 786,179 784,179 731,188 724,188 722,188 712,179 711,179 694,179 677,179 661,179 654,186 654,188 607,188 607,186 599,179 594,179 578,179 564,179 514,186 511,186 508,186 478,179 478,179 461,179 454,179 441,186 439,186 436,186 384,176 383,176 381,176 359,186 356,186 296,186 296,231 294,237 363,247 364,247 1139,242 1141,234 1122,199 1111,198"/>
+        <Baseline points="296,231 1141,234"/>
+        <TextEquiv>
+          <Unicode>weib (als es ſich anſehen lieſſe) erblicket hat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c632412b" >
+        <Coords points="976,234 974,234 826,242 814,234 812,234 811,234 809,234 807,234 806,234 806,236 797,242 746,236 744,236 706,244 702,244 696,244 571,236 569,236 568,236 566,236 566,237 558,246 496,246 451,236 449,236 384,244 376,237 376,236 374,236 373,236 308,236 306,236 304,236 303,236 303,237 296,242 298,291 298,301 1139,296 1141,287 1136,241 1004,242 999,241 977,234 976,234"/>
+        <Baseline points="298,291 1141,287"/>
+        <TextEquiv>
+          <Unicode>Als er aber auff ſolches widerumb heim koͤ⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_94d85b03" >
+        <Coords points="546,291 544,291 543,291 541,291 521,297 514,299 298,296 298,342 296,349 359,361 361,361 569,352 619,362 621,362 832,354 862,364 864,364 866,364 1142,354 1144,347 1144,302 1131,294 1129,294 1127,294 1126,294 1124,294 1092,304 1044,304 1012,304 1011,302 999,294 997,294 996,294 994,294 992,294 974,302 972,302 967,302 896,294 894,294 892,294 867,301 862,302 857,301 834,292 832,292 831,292 829,292 802,301 799,301 791,301 721,292 719,292 661,299 642,301 636,299 619,292 617,292 616,292 571,297 559,299 556,297 548,291 546,291"/>
+        <Baseline points="298,342 1144,347"/>
+        <TextEquiv>
+          <Unicode>men / hat er ſeine geſt ſampt der Frauwen vn</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_57dbb508" >
+        <Coords points="296,401 294,407 1142,411 1146,404 1142,351 296,352 296,401"/>
+        <Baseline points="296,401 1146,404"/>
+        <TextEquiv>
+          <Unicode>uerendt / wie er ſie gelaſſen / ſitzen fundē. Vñ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7dbd0603" >
+        <Coords points="296,459 296,475 1144,470 1144,459 1144,412 296,407 296,459"/>
+        <Baseline points="296,459 1144,459"/>
+        <TextEquiv>
+          <Unicode>nach dem er / ob doch ſein Ehefraw ſeither ab</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e35b77b1" >
+        <Coords points="298,512 296,520 373,530 374,530 1144,525 1146,515 1144,469 298,462 298,512"/>
+        <Baseline points="298,512 1146,515"/>
+        <TextEquiv>
+          <Unicode>der ſtett verruckt / fleiſſig erkuͤndiget / iſt jhm</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a684b42d" >
+        <Coords points="809,515 807,515 806,515 804,515 784,524 777,517 777,515 776,515 774,515 772,515 771,515 742,524 741,524 737,524 631,515 629,515 586,524 579,524 573,524 526,514 524,514 523,514 489,522 488,524 416,524 414,522 406,514 404,514 403,514 401,514 399,514 384,522 383,522 294,522 294,567 293,575 386,585 388,585 576,579 597,587 599,587 601,587 1142,580 1144,572 1144,527 1121,517 1119,517 1117,517 1066,525 1019,517 1017,517 824,524 811,515 809,515"/>
+        <Baseline points="294,567 1144,572"/>
+        <TextEquiv>
+          <Unicode>von jnen allen einhelliglich / daß ſolches nit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_73ca128d" >
+        <Coords points="293,625 291,632 1139,635 1142,629 1141,584 1079,574 1077,574 861,582 837,582 829,582 769,574 767,574 766,574 741,582 736,582 731,582 687,572 686,572 684,572 666,580 666,582 444,582 443,580 434,572 433,572 431,572 429,572 293,579 293,625"/>
+        <Baseline points="293,625 1142,629"/>
+        <TextEquiv>
+          <Unicode>beſchehen / geantwortet worden. Derhalben</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_601d93da" >
+        <Coords points="1074,629 1071,629 1054,637 927,629 926,629 924,629 907,637 886,629 874,629 872,629 861,637 436,629 434,629 433,629 399,639 366,629 364,629 363,629 361,629 359,629 359,630 351,639 334,630 333,630 331,630 329,630 291,640 293,685 293,693 714,702 716,702 717,702 749,693 1081,700 1082,700 1142,690 1144,682 1141,639 1087,629 1074,629"/>
+        <Baseline points="293,685 1144,682"/>
+        <TextEquiv>
+          <Unicode>er / der Schuldtheiß den gantzen handel ſei⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4227b395" >
+        <Coords points="626,685 624,685 622,685 508,692 503,692 501,692 476,685 476,685 459,685 443,685 431,685 293,690 293,737 291,745 318,755 319,755 321,755 1142,752 1144,742 1142,697 1082,687 1081,687 1004,695 997,695 982,695 774,685 772,685 724,693 721,695 637,695 636,693 627,685 626,685"/>
+        <Baseline points="293,737 1144,742"/>
+        <TextEquiv>
+          <Unicode>nen Geſten geoffenbaret hat / mit groſſem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8e20e0e6" >
+        <Coords points="293,795 291,800 1136,810 1139,800 1136,743 857,750 812,742 807,742 293,742 293,795"/>
+        <Baseline points="293,795 1139,800"/>
+        <TextEquiv>
+          <Unicode>leid vnnd reuwen ( wiewol er den ſtall / nach</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_53dfd12b" >
+        <Coords points="293,850 291,860 1141,865 1144,853 1142,805 293,802 293,850"/>
+        <Baseline points="293,850 1144,853"/>
+        <TextEquiv>
+          <Unicode>dem die Schaf entlauffen) zů beſchlieſſen zů</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_08ce9862" >
+        <Coords points="859,853 857,853 856,853 854,853 842,862 786,853 784,853 706,862 702,862 694,862 494,852 493,852 491,852 469,860 419,852 418,852 293,858 293,905 291,918 1141,923 1144,910 1144,863 1129,855 1127,855 1126,855 1124,855 976,863 972,863 971,863 932,855 931,855 929,855 897,863 896,863 894,863 861,853 859,853"/>
+        <Baseline points="293,905 1144,910"/>
+        <TextEquiv>
+          <Unicode>langſam kommen / dieweil er ſo viel vnſchuͤl⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2184d7ae" >
+        <Coords points="293,961 291,968 334,978 336,978 1141,976 1142,965 1141,915 293,908 293,961"/>
+        <Baseline points="293,961 1142,965"/>
+        <TextEquiv>
+          <Unicode>diges blůts vergoſſen hat. Ich vermein aber</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_73ae1ff9" >
+        <Coords points="1096,965 1092,965 1076,965 1059,965 1042,965 1026,965 1009,965 992,965 977,965 976,965 974,965 972,965 962,973 904,965 902,965 901,965 899,965 887,973 884,975 867,973 829,966 827,966 802,971 796,973 794,971 786,965 784,965 782,965 781,965 779,965 762,971 752,975 674,970 607,966 606,966 591,970 571,973 561,968 548,963 546,963 544,963 489,968 431,973 293,966 293,1018 291,1025 717,1036 719,1036 1141,1028 1142,1021 1142,976 1097,965 1096,965"/>
+        <Baseline points="293,1018 1142,1021"/>
+        <TextEquiv>
+          <Unicode>nicht anderſt weder er ſey diſem Meiſter hem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ac9b0b6b" >
+        <Coords points="1007,1021 999,1030 916,1030 894,1021 889,1021 881,1021 861,1028 827,1021 822,1021 811,1021 789,1028 767,1021 756,1021 751,1021 712,1030 711,1030 661,1021 659,1021 436,1030 424,1021 423,1021 421,1021 304,1021 303,1021 301,1021 299,1021 289,1026 291,1076 291,1085 419,1085 423,1085 444,1093 446,1093 448,1093 498,1085 504,1085 509,1085 544,1093 546,1093 607,1085 612,1085 614,1085 632,1093 634,1093 636,1093 679,1085 682,1085 684,1085 709,1093 711,1093 712,1093 752,1085 762,1083 772,1085 806,1091 807,1091 1141,1083 1142,1073 1139,1030 1026,1030 1017,1021 1007,1021"/>
+        <Baseline points="291,1076 1142,1073"/>
+        <TextEquiv>
+          <Unicode>merlein auch wie er wol beſchuldet / ſein be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_77e92f94" >
+        <Coords points="661,1076 656,1076 639,1076 622,1076 606,1076 601,1076 599,1076 597,1076 596,1076 589,1083 584,1086 533,1081 484,1078 483,1078 481,1078 471,1081 446,1088 431,1080 424,1076 423,1076 421,1076 419,1076 409,1080 389,1086 289,1078 291,1133 291,1141 886,1144 889,1131 886,1090 684,1088 679,1085 662,1076 661,1076"/>
+        <Baseline points="291,1133 889,1131"/>
+        <TextEquiv>
+          <Unicode>lohnung treuwlichen worden.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_327278d0" >
+        <Coords points="869,1133 771,1141 754,1141 744,1141 694,1133 687,1133 671,1133 654,1133 637,1133 621,1133 616,1133 354,1138 354,1188 353,1194 368,1203 369,1203 371,1203 1142,1196 1144,1191 1142,1143 1091,1133 1089,1133 1087,1133 1086,1133 1076,1141 1074,1141 871,1133 869,1133"/>
+        <Baseline points="354,1188 1144,1191"/>
+        <TextEquiv>
+          <Unicode>Gleichergeſtalt ſein vor wenig jaren im</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_dc42283b" >
+        <Coords points="1024,1191 1007,1191 999,1191 977,1196 976,1196 974,1196 964,1191 957,1191 944,1191 932,1196 931,1198 781,1198 776,1194 766,1191 757,1191 742,1189 727,1194 721,1196 717,1194 709,1189 707,1189 692,1189 682,1194 681,1194 676,1194 642,1189 641,1189 624,1189 607,1189 591,1189 564,1193 553,1194 291,1193 291,1243 289,1254 1141,1254 1142,1246 1141,1198 1032,1198 1031,1196 1024,1191 1024,1191"/>
+        <Baseline points="291,1243 1142,1246"/>
+        <TextEquiv>
+          <Unicode>Schloß Ried Mundenſer Heriſchafft etli⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_51204153" >
+        <Coords points="782,1246 781,1246 767,1251 756,1254 744,1251 731,1246 729,1246 727,1246 647,1249 539,1254 521,1248 516,1246 514,1246 513,1246 493,1248 431,1254 408,1246 406,1246 404,1246 403,1246 401,1246 399,1246 383,1254 376,1248 376,1246 374,1246 373,1246 293,1246 293,1301 293,1311 1141,1311 1141,1301 1141,1256 784,1246 782,1246"/>
+        <Baseline points="293,1301 1141,1301"/>
+        <TextEquiv>
+          <Unicode>Weiber / ſo von einer / Margaretha von</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7e5541c7" >
+        <Coords points="831,1303 573,1309 568,1303 566,1303 554,1303 538,1303 521,1303 506,1303 288,1308 288,1354 286,1367 1139,1366 1141,1359 1141,1314 832,1303 831,1303"/>
+        <Baseline points="288,1354 1141,1359"/>
+        <TextEquiv>
+          <Unicode>Munden genennt / angegeben / vom leben</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5eb140e4" >
+        <Coords points="289,1411 288,1422 1137,1422 1139,1414 1137,1371 1069,1371 1069,1369 1059,1361 1057,1361 1056,1361 1054,1361 984,1369 972,1369 957,1367 892,1361 891,1361 856,1367 842,1369 792,1366 669,1359 667,1359 606,1364 571,1367 289,1362 289,1411"/>
+        <Baseline points="289,1411 1139,1414"/>
+        <TextEquiv>
+          <Unicode>zum todt verurtheilt vnd gerichtet worden.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d2add235" >
+        <Coords points="639,1412 637,1412 636,1412 634,1412 619,1421 612,1424 489,1424 484,1421 463,1412 461,1412 459,1412 414,1421 404,1412 403,1412 401,1412 388,1412 371,1412 354,1412 338,1412 321,1412 311,1412 309,1412 308,1412 288,1421 288,1469 286,1481 1136,1477 1137,1472 1134,1417 714,1424 652,1424 649,1419 641,1412 639,1412"/>
+        <Baseline points="288,1469 1137,1472"/>
+        <TextEquiv>
+          <Unicode>Dieſe Margaretha war zůuor im Schloß</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f1ca7d9f" >
+        <Coords points="288,1527 288,1536 1137,1542 1139,1527 1139,1481 288,1474 288,1527"/>
+        <Baseline points="288,1527 1139,1527"/>
+        <TextEquiv>
+          <Unicode>Huisberh ein zeitlang gefangen gelegen. Als</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e133917b" >
+        <Coords points="1069,1529 1052,1529 1051,1529 1007,1536 881,1529 869,1529 852,1529 836,1529 819,1529 759,1532 711,1536 684,1532 664,1529 652,1529 636,1529 631,1529 627,1531 619,1534 609,1531 602,1529 602,1529 586,1529 569,1529 561,1531 539,1534 349,1529 336,1529 319,1529 303,1529 301,1527 286,1527 286,1580 284,1592 1137,1592 1139,1584 1137,1539 1074,1529 1069,1529"/>
+        <Baseline points="286,1580 1139,1584"/>
+        <TextEquiv>
+          <Unicode>ſie aber hernach in die gegne d Statt Verd</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c6397ca6" >
+        <Coords points="851,1584 591,1590 578,1590 576,1590 563,1582 561,1582 559,1582 558,1582 298,1589 288,1607 286,1637 284,1649 351,1650 369,1667 371,1667 373,1667 374,1667 438,1657 463,1667 464,1667 466,1669 558,1669 558,1667 659,1654 761,1669 762,1669 852,1654 976,1670 977,1670 979,1670 1022,1655 1136,1655 1137,1642 1136,1594 852,1584 851,1584"/>
+        <Baseline points="286,1637 1137,1642"/>
+        <TextEquiv>
+          <Unicode>beruͤffet / hat ſie abermals eine verzeigt / vnnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_14918a83" >
+        <Coords points="1066,1697 1066,1719 1137,1732 1139,1697 1134,1642 1117,1652 1066,1649 1066,1697"/>
+        <Baseline points="1066,1697 1139,1697"/>
+        <TextEquiv>
+          <Unicode>hat</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
