@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://content.staatsbibliothek-berlin.de/dc/813172837-0431/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-03-06T11:57:54.964061+00:00</Created>
+        <LastChange>2023-03-06T11:57:54.964077+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="430_beb83_default.jpg" imageWidth="1171" imageHeight="1997">
+
+    
+    <TextRegion id="eSc_textblock_1d8e2025"  >
+      <Coords points="884,970 732,976 697,991 697,1023 637,1036 33,1030 19,199 59,113 871,126 884,970"/>
+      
+      
+      <TextLine id="eSc_line_84fd5fbd" >
+        <Coords points="722,123 706,123 696,123 684,126 676,123 672,123 656,121 639,121 622,121 609,121 602,123 599,121 589,121 573,121 556,119 539,119 523,119 506,119 489,119 488,119 473,126 436,118 423,118 406,118 389,118 373,118 364,116 339,123 329,116 323,116 306,116 289,116 283,116 274,118 246,114 239,114 223,114 206,114 189,114 188,114 179,118 134,113 123,113 106,113 98,113 89,119 69,113 56,116 56,168 56,178 869,178 869,168 869,128 746,128 741,124 737,123 722,123"/>
+        <Baseline points="56,168 869,168"/>
+        <TextEquiv>
+          <Unicode>boͤſen Geiſter / Das IIll. Buch. 4i2</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a989ec6d" >
+        <Coords points="741,169 724,169 714,169 657,178 647,178 644,178 627,169 626,169 624,169 589,178 583,178 569,178 498,169 496,169 494,169 471,178 466,178 454,178 403,171 401,171 399,171 398,171 389,178 386,179 369,178 333,171 331,171 329,171 328,171 319,178 314,179 296,178 258,171 256,171 254,171 241,178 229,181 26,178 24,183 26,231 26,237 859,236 861,224 857,178 749,169 741,169"/>
+        <Baseline points="26,231 861,224"/>
+        <TextEquiv>
+          <Unicode>gerſpringen) weder Gott dem Herꝛen ſelber /</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_54465b09" >
+        <Coords points="24,281 23,291 857,296 861,286 857,231 802,241 629,241 594,231 581,229 579,229 24,234 24,281"/>
+        <Baseline points="24,281 861,286"/>
+        <TextEquiv>
+          <Unicode>durch welches namen ſie beſchworen / noch</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c4204d5d" >
+        <Coords points="689,286 681,286 662,292 659,292 626,291 471,284 469,284 419,289 379,294 354,289 334,286 333,286 331,286 324,289 316,294 306,289 299,286 298,286 296,286 263,289 204,294 184,287 176,286 174,286 114,286 113,286 111,286 109,286 109,287 108,287 101,294 23,287 24,339 24,347 861,344 862,336 859,294 704,294 702,292 694,286 689,286"/>
+        <Baseline points="24,339 862,336"/>
+        <TextEquiv>
+          <Unicode>den Gerechten / von deren worten ſie geeng⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_67e543f3" >
+        <Coords points="29,396 29,412 113,404 419,411 421,411 423,411 451,402 862,409 866,392 862,344 34,342 33,342 31,342 29,342 29,344 28,344 29,396"/>
+        <Baseline points="29,396 866,392"/>
+        <TextEquiv>
+          <Unicode>ſtiget vnnd genoͤtiget werden / etwas verber⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_de448a91" >
+        <Coords points="809,394 792,394 752,402 742,394 742,394 726,394 722,394 647,404 616,394 614,394 612,394 553,402 523,394 521,394 519,394 476,404 466,396 466,394 464,394 463,394 461,394 459,394 456,394 441,404 339,396 338,396 228,407 163,397 161,397 159,397 158,397 143,407 81,401 79,401 26,409 28,454 28,467 864,455 866,447 862,404 811,394 809,394"/>
+        <Baseline points="28,454 866,447"/>
+        <TextEquiv>
+          <Unicode>gen / oder einen einigen luͤge ſagen koͤnnen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_992e94e1" >
+        <Coords points="223,454 206,454 189,454 173,454 156,454 139,454 123,454 116,454 89,460 54,454 39,454 23,460 24,507 24,517 864,512 866,504 862,460 662,450 661,450 659,450 657,450 647,459 226,452 223,454"/>
+        <Baseline points="24,507 866,504"/>
+        <TextEquiv>
+          <Unicode>Derhalbē ſie auch vnterweilen mit groſſem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_12b0d55c" >
+        <Coords points="581,505 579,505 578,505 564,515 429,515 166,507 164,507 163,507 126,515 83,507 81,507 79,507 58,515 36,507 34,507 33,507 31,507 29,507 29,509 24,512 26,564 26,572 862,570 864,560 861,515 583,505 581,505"/>
+        <Baseline points="26,564 864,560"/>
+        <TextEquiv>
+          <Unicode>heuien / ſchreien / vnd wie daß ſie geſchlagen</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4d7c39b1" >
+        <Coords points="24,619 24,635 869,635 869,619 869,574 24,574 24,619"/>
+        <Baseline points="24,619 869,619"/>
+        <TextEquiv>
+          <Unicode>werden / brennen / vnd daß ſie jetzt ein weiten</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a2947228" >
+        <Coords points="694,620 677,620 661,620 644,620 627,620 611,620 599,620 576,625 561,620 561,620 544,620 536,620 521,625 359,620 344,620 328,620 311,620 294,620 293,620 248,627 209,620 196,620 188,629 109,629 81,620 78,620 66,620 28,629 29,675 29,693 71,685 308,690 399,692 401,692 421,688 451,683 867,683 869,672 866,627 699,620 694,620"/>
+        <Baseline points="29,675 869,672"/>
+        <TextEquiv>
+          <Unicode>geben woͤllen / ſich hoͤꝛen laſſen. In diſer Cur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5ab38c10" >
+        <Coords points="424,675 423,675 393,682 371,685 353,682 321,675 319,675 318,675 289,682 276,685 238,683 113,675 111,675 109,675 108,675 94,685 93,687 39,687 31,705 28,730 28,745 876,737 876,730 874,675 811,685 777,677 776,677 774,677 622,685 601,678 591,675 589,675 587,675 569,678 539,685 529,678 523,675 521,675 519,675 518,675 516,675 514,675 509,680 499,687 449,687 438,680 426,675 424,675"/>
+        <Baseline points="28,730 876,730"/>
+        <TextEquiv>
+          <Unicode>der beſeſſenen iſt meines erachtens / dieweil</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_884f1255" >
+        <Coords points="861,732 844,732 827,732 811,732 794,732 777,732 761,732 744,732 727,732 711,732 694,732 677,732 661,732 644,732 627,732 611,732 594,732 578,732 561,732 544,732 528,732 511,732 494,732 478,732 461,732 451,732 439,733 413,737 321,735 168,732 161,732 144,732 128,732 111,732 94,732 79,732 28,738 29,785 29,797 869,797 871,782 867,732 861,732"/>
+        <Baseline points="29,785 871,782"/>
+        <TextEquiv>
+          <Unicode>vnd ſie auff heilige Goͤttliche Schrifft ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_167e9cdb" >
+        <Coords points="586,783 584,783 551,793 541,785 541,783 539,783 538,783 536,783 534,783 533,783 533,785 519,795 443,785 441,785 396,795 381,785 379,785 378,785 376,785 324,797 314,788 313,788 311,788 309,788 308,788 294,795 199,787 198,787 196,787 194,787 178,798 144,788 143,788 41,788 39,788 38,788 36,788 36,790 34,790 31,793 33,845 33,855 872,845 874,837 869,793 701,793 677,785 676,785 674,785 672,785 637,793 587,783 586,783"/>
+        <Baseline points="33,845 874,837"/>
+        <TextEquiv>
+          <Unicode>fundiert iſt / kein Irꝛthumb / Abgoͤtterey / o⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6f93e60a" >
+        <Coords points="31,896 31,906 874,906 874,896 872,843 31,850 31,896"/>
+        <Baseline points="31,896 874,896"/>
+        <TextEquiv>
+          <Unicode>der Gottesleſterung. Welches dieweil vnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_325d558e" >
+        <Coords points="29,955 29,963 871,970 872,955 871,900 29,906 29,955"/>
+        <Baseline points="29,955 872,955"/>
+        <TextEquiv>
+          <Unicode>es augenſcheinlich an dem tage ligt / weitleuf</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5c35026b" >
+        <Coords points="41,956 39,956 38,956 38,958 36,958 34,960 36,1015 36,1023 657,1020 657,1010 654,961 43,956 41,956"/>
+        <Baseline points="36,1015 657,1010"/>
+        <TextEquiv>
+          <Unicode>figers beybringens nichtbedarff.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_69774954"  >
+      <Coords points="571,1296 304,1309 33,1296 39,1065 306,1038 877,1065 891,1256 626,1263 571,1296"/>
+      
+      
+      <TextLine id="eSc_line_e8e5e7c1" >
+        <Coords points="867,1066 84,1066 84,1106 84,1119 876,1113 876,1106 874,1083 867,1066"/>
+        <Baseline points="84,1106 876,1106"/>
+        <TextEquiv>
+          <Unicode>Folget ein leppiſche vngereimpte gattung</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_32986d75" >
+        <Coords points="867,1111 621,1108 616,1108 599,1108 583,1108 566,1108 549,1108 533,1108 516,1108 499,1108 483,1108 466,1108 449,1108 443,1108 431,1113 216,1108 199,1108 183,1108 166,1108 149,1108 133,1108 123,1108 34,1114 33,1124 34,1151 34,1158 877,1154 879,1148 876,1131 867,1111"/>
+        <Baseline points="34,1151 879,1148"/>
+        <TextEquiv>
+          <Unicode>vnd manier / die verhexetē widerumb zů recht</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8c85fb4c" >
+        <Coords points="602,1149 597,1149 584,1156 583,1156 581,1156 554,1149 553,1149 536,1149 504,1156 503,1156 466,1149 453,1151 446,1151 441,1156 434,1151 419,1151 379,1158 376,1158 373,1158 334,1151 319,1151 313,1151 269,1158 211,1151 203,1151 186,1151 184,1151 144,1158 136,1151 119,1151 103,1151 86,1151 69,1151 58,1151 36,1159 38,1198 38,1204 876,1208 879,1194 874,1154 641,1156 636,1156 612,1149 602,1149"/>
+        <Baseline points="38,1198 879,1194"/>
+        <TextEquiv>
+          <Unicode>zůbringen / vnnd die boͤſen Geiſter außzůtrei⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_45df9aff" >
+        <Coords points="831,1196 829,1196 804,1206 631,1206 579,1196 578,1196 521,1204 476,1196 474,1196 404,1206 386,1198 384,1198 383,1198 248,1206 151,1198 149,1198 148,1198 146,1198 146,1199 138,1208 34,1208 36,1243 36,1254 879,1251 881,1239 877,1206 832,1196 831,1196"/>
+        <Baseline points="36,1243 881,1239"/>
+        <TextEquiv>
+          <Unicode>ben: Item ein Gottloſe weiß das vngewit⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d54bc687" >
+        <Coords points="136,1243 121,1243 113,1251 78,1243 76,1243 74,1243 36,1251 36,1291 36,1301 194,1311 196,1311 198,1311 199,1311 213,1301 214,1301 286,1301 286,1291 286,1253 151,1243 136,1243"/>
+        <Baseline points="36,1291 286,1291"/>
+        <TextEquiv>
+          <Unicode>ter zů ſtillen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_5ae0fea6"  >
+      <Coords points="897,1682 752,1689 711,1635 39,1629 39,1391 238,1364 219,1331 253,1324 664,1324 726,1391 891,1404 897,1682"/>
+      
+      
+      <TextLine id="eSc_line_2fbd62ee" >
+        <Coords points="666,1328 649,1324 646,1324 629,1331 607,1324 599,1324 583,1324 566,1324 549,1324 533,1324 526,1324 521,1329 518,1331 503,1329 474,1324 466,1324 449,1324 438,1324 423,1328 408,1329 266,1324 266,1369 264,1376 283,1384 284,1384 286,1384 416,1379 464,1377 473,1381 486,1386 488,1386 489,1387 676,1387 677,1372 677,1341 666,1328"/>
+        <Baseline points="266,1369 677,1372"/>
+        <TextEquiv>
+          <Unicode>Das XXX. Capitel.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3debbf81" >
+        <Coords points="66,1384 49,1392 49,1456 49,1527 76,1541 78,1541 79,1541 81,1541 116,1527 116,1456 116,1394 76,1384 66,1384"/>
+        <Baseline points="49,1456 116,1456"/>
+        <TextEquiv>
+          <Unicode>V</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b886ed89" >
+        <Coords points="151,1452 151,1459 328,1467 329,1467 331,1467 333,1467 333,1466 341,1459 341,1457 404,1457 414,1459 449,1466 451,1466 453,1466 476,1459 479,1457 483,1459 503,1466 504,1466 506,1466 884,1456 886,1447 882,1404 724,1394 722,1394 721,1394 697,1401 691,1402 684,1401 664,1394 662,1394 661,1394 629,1399 606,1404 587,1399 571,1394 569,1394 568,1394 566,1394 564,1394 558,1399 551,1404 541,1399 528,1392 526,1392 524,1392 523,1392 509,1397 494,1404 461,1397 426,1391 424,1391 423,1391 404,1397 374,1406 336,1396 323,1392 321,1392 319,1392 318,1392 316,1392 316,1394 313,1396 303,1404 259,1397 258,1397 256,1397 241,1406 223,1394 221,1392 219,1392 218,1392 216,1392 149,1392 151,1452"/>
+        <Baseline points="151,1452 886,1447"/>
+        <TextEquiv>
+          <Unicode>Ber auff welcher heiliger / oder helli⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_caee08c0" >
+        <Coords points="261,1452 259,1452 258,1452 256,1454 243,1462 149,1454 151,1511 153,1527 176,1517 373,1517 383,1526 384,1526 386,1526 388,1527 433,1527 453,1527 453,1526 454,1526 456,1526 456,1524 463,1519 473,1526 474,1526 476,1526 478,1527 478,1526 479,1526 481,1526 493,1517 513,1526 514,1526 516,1526 518,1526 538,1516 587,1524 589,1524 591,1524 627,1516 882,1524 886,1507 882,1462 814,1451 812,1451 811,1451 789,1461 784,1462 764,1461 711,1454 709,1454 676,1459 654,1462 646,1459 634,1454 632,1454 631,1454 606,1459 586,1462 579,1457 576,1454 574,1454 573,1454 571,1454 548,1457 511,1464 463,1457 431,1452 393,1452 391,1452 389,1452 388,1452 384,1456 374,1464 354,1456 349,1454 348,1454 263,1452 261,1452"/>
+        <Baseline points="151,1511 886,1507"/>
+        <TextEquiv>
+          <Unicode>ſcher Schrifft zeugnus / auch auff wz</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8574cfb9" >
+        <Coords points="156,1559 154,1570 219,1580 221,1580 887,1579 889,1564 887,1521 156,1516 156,1559"/>
+        <Baseline points="156,1559 889,1564"/>
+        <TextEquiv>
+          <Unicode>exempel ſich gruͤnde die gemein vñ ſehꝛ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_091eaa0e" >
+        <Coords points="41,1620 41,1649 61,1659 63,1659 64,1659 169,1649 201,1659 203,1659 204,1660 349,1660 349,1659 351,1659 394,1649 463,1659 464,1659 549,1657 551,1657 553,1657 569,1642 571,1640 576,1642 597,1650 599,1650 601,1650 692,1640 699,1640 701,1640 724,1652 726,1652 727,1652 729,1652 731,1652 746,1640 746,1639 889,1637 889,1617 886,1574 51,1567 49,1567 48,1567 46,1567 39,1570 41,1620"/>
+        <Baseline points="41,1620 889,1617"/>
+        <TextEquiv>
+          <Unicode>lang ieit eingewurtzelt weiß / vnd der veraltet</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5a9c03f2" >
+        <Coords points="746,1675 744,1704 786,1714 787,1714 789,1714 814,1704 816,1704 844,1714 846,1714 847,1714 849,1714 884,1702 886,1679 886,1630 746,1622 746,1675"/>
+        <Baseline points="746,1675 886,1679"/>
+        <TextEquiv>
+          <Unicode>brauch</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
