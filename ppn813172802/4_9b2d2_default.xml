@@ -9,7 +9,6 @@
       <fileIdentifier>https://content.staatsbibliothek-berlin.de/dc/813172837-0005/full/full/0/default.jpg</fileIdentifier>
     </sourceImageInformation>
   </Description>
-  
   <Layout>
     <Page WIDTH="1232"
           HEIGHT="1998"
@@ -19,7 +18,6 @@
                   VPOS="0"
                   WIDTH="1232"
                   HEIGHT="1998">
-        
         <TextBlock HPOS="73"
                    VPOS="133"
                    WIDTH="972"
@@ -27,10 +25,7 @@
                    ID="eSc_textblock_1e400194"
                    >
           <Shape><Polygon POINTS="366 133 778 146 805 198 766 273 1005 293 1045 319 1045 571 966 584 878 684 831 699 866 732 1045 752 1038 864 986 877 918 950 820 964 791 997 700 1003 665 1037 480 1043 431 997 333 990 291 950 226 944 73 844 93 732 260 690 165 577 73 551 86 293 100 273 251 279 351 253 340 173 366 133"/></Shape>
-          
-          
           <TextLine ID="eSc_line_11a3e125"
-                    
                     BASELINE="351 193 795 199" 
                     HPOS="350"
                     VPOS="136"
@@ -43,11 +38,7 @@
                     WIDTH="445"
                     HEIGHT="82"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_6e7e0a19"
-                    
                     BASELINE="391 258 730 258" 
                     HPOS="391"
                     VPOS="206"
@@ -60,11 +51,7 @@
                     WIDTH="339"
                     HEIGHT="70"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_7ab1f61c"
-                    
                     BASELINE="93 400 440 396 1064 398" 
                     HPOS="90"
                     VPOS="266"
@@ -77,11 +64,7 @@
                     WIDTH="973"
                     HEIGHT="163"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_3ecdf096"
-                    
                     BASELINE="88 482 1046 492" 
                     HPOS="86"
                     VPOS="422"
@@ -94,11 +77,7 @@
                     WIDTH="960"
                     HEIGHT="80"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_a957d4bc"
-                    
                     BASELINE="75 544 1036 556" 
                     HPOS="73"
                     VPOS="491"
@@ -111,11 +90,7 @@
                     WIDTH="963"
                     HEIGHT="76"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_3b9da573"
-                    
                     BASELINE="190 604 925 612" 
                     HPOS="188"
                     VPOS="552"
@@ -128,11 +103,7 @@
                     WIDTH="737"
                     HEIGHT="74"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_f98fa231"
-                    
                     BASELINE="253 661 868 669" 
                     HPOS="251"
                     VPOS="609"
@@ -145,11 +116,7 @@
                     WIDTH="617"
                     HEIGHT="71"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_aa879bd9"
-                    
                     BASELINE="351 720 771 724" 
                     HPOS="350"
                     VPOS="666"
@@ -162,11 +129,7 @@
                     WIDTH="421"
                     HEIGHT="78"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_c249f010"
-                    
                     BASELINE="86 784 1048 794" 
                     HPOS="85"
                     VPOS="722"
@@ -179,11 +142,7 @@
                     WIDTH="963"
                     HEIGHT="88"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_b5c8e844"
-                    
                     BASELINE="76 835 1038 847" 
                     HPOS="75"
                     VPOS="789"
@@ -196,11 +155,7 @@
                     WIDTH="963"
                     HEIGHT="71"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_4f41b016"
-                    
                     BASELINE="140 885 960 892" 
                     HPOS="138"
                     VPOS="837"
@@ -213,11 +168,7 @@
                     WIDTH="822"
                     HEIGHT="63"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_e0d8e136"
-                    
                     BASELINE="221 929 915 939" 
                     HPOS="220"
                     VPOS="887"
@@ -230,11 +181,7 @@
                     WIDTH="695"
                     HEIGHT="62"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_613f2f7a"
-                    
                     BASELINE="323 979 790 984" 
                     HPOS="321"
                     VPOS="932"
@@ -247,11 +194,7 @@
                     WIDTH="469"
                     HEIGHT="68"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_93362b75"
-                    
                     BASELINE="463 1033 663 1027" 
                     HPOS="461"
                     VPOS="982"
@@ -264,12 +207,7 @@
                     WIDTH="202"
                     HEIGHT="61"></String>
           </TextLine>
-
-          
         </TextBlock>
-        
-
-        
       </PrintSpace>
     </Page>
   </Layout>

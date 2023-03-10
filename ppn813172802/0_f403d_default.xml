@@ -9,7 +9,6 @@
       <fileIdentifier>https://content.staatsbibliothek-berlin.de/dc/813172837-0001/full/full/0/default.jpg</fileIdentifier>
     </sourceImageInformation>
   </Description>
-  
   <Layout>
     <Page WIDTH="1515"
           HEIGHT="2393"
@@ -19,14 +18,8 @@
                   VPOS="0"
                   WIDTH="1515"
                   HEIGHT="2393">
-        
-
-        
         <TextBlock ID="eSc_dummyblock_">
-          
-          
           <TextLine ID="eSc_line_7bdfb6a3"
-                    
                     BASELINE="572 738 1190 731" 
                     HPOS="568"
                     VPOS="616"
@@ -39,11 +32,7 @@
                     WIDTH="621"
                     HEIGHT="163"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_d6a4ff97"
-                    
                     BASELINE="552 1966 1186 1962" 
                     HPOS="548"
                     VPOS="1920"
@@ -56,10 +45,7 @@
                     WIDTH="637"
                     HEIGHT="94"></String>
           </TextLine>
-
-          
         </TextBlock>
-        
       </PrintSpace>
     </Page>
   </Layout>

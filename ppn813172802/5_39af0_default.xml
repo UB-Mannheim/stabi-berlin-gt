@@ -9,7 +9,6 @@
       <fileIdentifier>https://content.staatsbibliothek-berlin.de/dc/813172837-0006/full/full/0/default.jpg</fileIdentifier>
     </sourceImageInformation>
   </Description>
-  
   <Layout>
     <Page WIDTH="1206"
           HEIGHT="1996"
@@ -19,7 +18,6 @@
                   VPOS="0"
                   WIDTH="1206"
                   HEIGHT="1996">
-        
         <TextBlock HPOS="490"
                    VPOS="811"
                    WIDTH="5"
@@ -27,9 +25,7 @@
                    ID="eSc_textblock_820d7ffa"
                    >
           <Shape><Polygon POINTS="495 816 490 816 490 811 495 811 495 816"/></Shape>
-          
         </TextBlock>
-        
         <TextBlock HPOS="504"
                    VPOS="798"
                    WIDTH="342"
@@ -37,9 +33,7 @@
                    ID="eSc_textblock_305c4d82"
                    >
           <Shape><Polygon POINTS="690 831 617 816 555 849 628 863 504 863 504 838 557 836 510 811 756 798 820 798 846 836 643 863 690 831"/></Shape>
-          
         </TextBlock>
-        
         <TextBlock HPOS="326"
                    VPOS="179"
                    WIDTH="746"
@@ -47,16 +41,9 @@
                    ID="eSc_textblock_d4dee799"
                    >
           <Shape><Polygon POINTS="1072 219 1072 264 941 277 841 244 826 277 761 284 326 284 332 179 820 186 835 212 1033 186 1072 219"/></Shape>
-          
         </TextBlock>
-        
-
-        
         <TextBlock ID="eSc_dummyblock_">
-          
-          
           <TextLine ID="eSc_line_61799268"
-                    
                     BASELINE="597 660 720 663" 
                     HPOS="593"
                     VPOS="563"
@@ -69,11 +56,7 @@
                     WIDTH="125"
                     HEIGHT="113"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_7a9236fa"
-                    
                     BASELINE="464 757 848 752" 
                     HPOS="460"
                     VPOS="670"
@@ -86,11 +69,7 @@
                     WIDTH="386"
                     HEIGHT="128"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_f8563c77"
-                    
                     BASELINE="498 854 830 847" 
                     HPOS="495"
                     VPOS="780"
@@ -103,10 +82,7 @@
                     WIDTH="333"
                     HEIGHT="79"></String>
           </TextLine>
-
-          
         </TextBlock>
-        
       </PrintSpace>
     </Page>
   </Layout>
