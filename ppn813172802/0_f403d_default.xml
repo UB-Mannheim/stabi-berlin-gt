@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>0_f403d_default.jpg</fileName>
+      <fileIdentifier>https://content.staatsbibliothek-berlin.de/dc/813172837-0001/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1515"
+          HEIGHT="2393"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1515"
+                  HEIGHT="2393">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_7bdfb6a3"
+                    BASELINE="572 738 1190 731" 
+                    HPOS="568"
+                    VPOS="616"
+                    WIDTH="621"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="570 737 570 779 752 779 754 779 756 779 766 771 778 759 844 745 890 745 916 761 916 763 918 763 920 763 922 765 1025 765 1025 763 1027 763 1029 763 1041 755 1059 743 1099 743 1107 751 1113 755 1113 757 1115 757 1117 757 1119 757 1189 745 1189 729 1183 616 1061 618 1059 618 1057 618 1051 622 1011 650 974 640 972 640 970 640 840 658 766 640 760 638 758 638 756 638 754 638 748 640 708 660 686 646 684 646 682 646 680 646 678 646 676 646 666 656 638 646 630 644 628 644 626 644 568 650 570 737"/></Shape>
+	    <String CONTENT="S H Z H"
+                    HPOS="568"
+                    VPOS="616"
+                    WIDTH="621"
+                    HEIGHT="163"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d6a4ff97"
+                    BASELINE="552 1966 1186 1962" 
+                    HPOS="548"
+                    VPOS="1920"
+                    WIDTH="637"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="550 1964 550 2014 716 2012 718 2012 744 2004 832 1976 1033 1978 1043 1986 1063 2004 1065 2004 1067 2004 1069 2004 1071 2004 1113 1988 1129 2002 1131 2002 1133 2002 1135 2002 1137 2002 1139 2002 1139 2000 1163 1980 1167 1974 1179 1978 1185 1960 1179 1926 980 1932 938 1924 918 1920 916 1920 914 1920 912 1920 912 1922 910 1924 900 1934 822 1934 754 1922 748 1922 746 1922 744 1922 742 1922 742 1924 730 1936 606 1936 594 1924 594 1922 592 1922 590 1922 548 1922 550 1964"/></Shape>
+	    <String CONTENT="1 5 7 2"
+                    HPOS="548"
+                    VPOS="1920"
+                    WIDTH="637"
+                    HEIGHT="94"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
